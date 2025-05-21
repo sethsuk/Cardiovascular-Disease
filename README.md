@@ -1,6 +1,5 @@
 # Cardiovascular Disease Risk Prediction  
-**CIS 5450 Final Project**  
-*Eric Sun, Grace Deng, Seth Sukboontip*
+**Eric Sun, Grace Deng, Seth Sukboontip**
 
 ## Overview
 
